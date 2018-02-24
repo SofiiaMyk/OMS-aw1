@@ -12,7 +12,7 @@ body {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	color: #000;
-	background: #000 url("heart.jpg") repeat scroll;
+	background: #999 url("heart.jpg") repeat scroll;
 }
 
 a,a:hover {
