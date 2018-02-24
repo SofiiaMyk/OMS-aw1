@@ -11,8 +11,8 @@ html {
 body {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 13px;
-	color: #999;
-	background: #000 url("heart.jpg") repeat scroll;
+	color: #000;
+	background: #999 url(heart.jpg) repeat scroll;
 }
 
 a,a:hover {
